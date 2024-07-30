@@ -49,3 +49,5 @@ Criar um aplicativo Expo:
     npx create-expo-app@latest mobile
     
 
+Aula Bonus, sobre autenticação:
+https://www.youtube.com/live/9VEwO4P0SE0
